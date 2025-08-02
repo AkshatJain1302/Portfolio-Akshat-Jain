@@ -8,7 +8,7 @@
   <img src="https://github.com/your-username/your-repo/blob/main/headshot.jpg?raw=true" width="160" style="border-radius: 50%;" alt="Akshat Jain">
 </p>
 
-<h1 align="center">Hi, I'm Akshat Jain 👋</h1>
+<h1 align="center">Akshat Jain </h1>
 
 <p align="center">
   <strong>Materials Science Engineer | Researcher in 2D Materials | Metallurgy Enthusiast</strong><br>
