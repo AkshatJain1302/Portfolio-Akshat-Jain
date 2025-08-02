@@ -31,7 +31,7 @@ I’m an undergraduate student pursuing a B.S. in Materials Science and Engineer
 - Synthesized **WS₂ and WSe₂ monolayers**, optimizing for domain size and uniformity.
 - Applied real-time research findings to continuously improve growth protocols.
 
-### ⚙️ Eyring Materials Center, ASU (Jul 2024 – Present)
+### [ FORCE @ ASU](https://force.asu.edu/) , ASU (Jul 2024 – Present)
 - Contributed to the **implementation of 4 new high-pressure apparatuses**.
 - Collaborated with **COMPRES** to supply multi-anvil assemblies to >40 labs worldwide.
 - Conducted material synthesis and led public outreach at research events.
