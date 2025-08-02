@@ -1,75 +1,90 @@
-# 👋 Akshat Jain
+<!-- Banner Background -->
+<p align="center">
+  <img src="https://github.com/your-username/your-repo/blob/main/banner.png?raw=true" width="100%" alt="Banner">
+</p>
 
-📍 Materials Science Engineering Student @ Arizona State University  
-📫 ajain357@asu.edu | [LinkedIn](https://www.linkedin.com/in/akshatjain13)  
-🔬 Researcher in 2D Materials | 🧪 CVD Systems | 🏭 Steel Manufacturing | 🎓 STEM Outreach
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://github.com/your-username/your-repo/blob/main/headshot.jpg?raw=true" width="160" style="border-radius: 50%;" alt="Akshat Jain">
+</p>
 
----
+<h1 align="center">Hi, I'm Akshat Jain 👋</h1>
 
-## 📚 About Me
-
-Hi, I’m Akshat Jain — a passionate undergraduate at Arizona State University majoring in Materials Science and Engineering. I bring hands-on experience across research, education, and industrial manufacturing, with a focus on **2D materials synthesis**, **CVD engineering**, and **high-pressure material processing**. With roots in the steel manufacturing industry and an eye on the future of nanotechnology, I aim to bridge foundational metallurgy with cutting-edge materials science.
-
----
-
-## 🔬 Research Experience
-
-### 🧪 Tongay Research Group, ASU  
-**Research Assistant** (Oct 2024 – Present)  
-- Designed and built a **custom Reverse Flow CVD system** for 2D monolayer growth.
-- Synthesized **WS₂ and WSe₂ films**, optimizing growth conditions to improve domain size and uniformity.
-- Integrated literature review into experimental design, adjusting parameters based on real-time findings.
-
-### 🧫 Eyring Materials Center, ASU  
-**Research Lab Assistant** (Jul 2024 – Present)  
-- Helped implement **4 new high-pressure apparatuses**; collaborated on multi-lab experiments.
-- Worked with the **COMPRES team** to support >40 labs globally with multi-anvil press assemblies.
-- Synthesized novel materials under high pressure; organized outreach events for public education.
+<p align="center">
+  <strong>Materials Science Engineer | Researcher in 2D Materials | Metallurgy Enthusiast</strong><br>
+  📍 Arizona State University | 📧 ajain357@asu.edu | 🌐 <a href="https://www.linkedin.com/in/akshatjain13">LinkedIn</a>
+</p>
 
 ---
 
-## 👨‍🏫 Teaching & Leadership
+## 🔬 About Me
 
-### 📘 FSE-100, Ira A. Fulton Schools  
-**Undergraduate Teaching Assistant** (Aug 2024 – Dec 2024)  
-- Mentored first-year students through design projects, technical communication, and collaboration.
+I’m a driven undergraduate student pursuing a B.S. in Materials Science and Engineering at Arizona State University. My experience ranges from building custom CVD systems and growing monolayer 2D materials, to high-pressure synthesis and quality assurance in industrial steel production.
 
-### 💼 Material Advantage Club  
-**Treasurer** (Apr 2025 – Present)  
-- Managed budgeting, reimbursements, and financial planning.
-- Supported technical workshops and outreach events in coordination with ASU financial services.
+I'm especially passionate about bridging fundamental material science with practical engineering applications — and empowering others through outreach and mentorship.
 
 ---
 
-## 🏭 Industrial Experience
+## 🧪 Research & Technical Experience
 
-### 🔧 Shree Shankeshwar Alloys LLP, India  
-**Quality Manager Assistant** (Jun 2023 – Dec 2023)  
-- Maintained and improved **steel quality control** processes.
-- Operated stainless steel melting systems and analyzed production data from induction furnaces.
+### 🧫 Tongay Research Group, ASU (Oct 2024 – Present)
+- Built a **custom Reverse Flow CVD system** from scratch.
+- Synthesized **WS₂ and WSe₂ monolayers**, optimizing for domain size and uniformity.
+- Applied real-time research findings to continuously improve growth protocols.
+
+### ⚙️ Eyring Materials Center, ASU (Jul 2024 – Present)
+- Contributed to the **implementation of 4 new high-pressure apparatuses**.
+- Collaborated with **COMPRES** to supply multi-anvil assemblies to >40 labs worldwide.
+- Conducted material synthesis and led public outreach at research events.
+
+### 👨‍🏫 FSE 100 Teaching Assistant (Aug 2024 – Dec 2024)
+- Mentored freshman students through hands-on design projects and presentations.
+- Helped sharpen their technical communication and problem-solving skills.
 
 ---
 
-## 🧰 Skills & Tools
+## 🏭 Industry Experience
 
-- **Chemical Vapor Deposition (CVD):** Reverse flow thin-film synthesis  
-- **2D Materials Synthesis:** Monolayer TMD growth  
-- **Characterization:** Raman/PL, XRD, Spectrophotometer  
-- **High-Pressure Tools:** Multi-anvil press systems  
-- **Metallurgy Tools:** Induction furnace operations, alloy formulation  
+### 🏢 Shree Shankeshwar Alloys LLP, India (Jun 2023 – Dec 2023)
+- Supported the **production of multiple stainless steel grades**.
+- Performed **quality control** experiments using induction furnaces and metal analyzers.
 
 ---
 
-## 🌟 Extra-Curricular Activities
+## 👥 Leadership
+
+### 💼 Treasurer – Material Advantage Club (Apr 2025 – Present)
+- Handled budgets, funding requests, and vendor coordination.
+- Supported academic outreach, networking events, and technical workshops.
+
+---
+
+## 🧰 Skills
+
+- **Chemical Vapor Deposition (CVD)** – Reverse flow systems  
+- **2D Materials** – WS₂, WSe₂ monolayer growth  
+- **Characterization Tools** – Raman/PL, XRD, Spectrophotometer  
+- **High-Pressure Synthesis** – Multi-anvil press systems  
+- **Steel Manufacturing Tools** – Induction furnaces, analyzers  
+
+---
+
+## 🌟 Activities
 
 - FORCE @ ASU – Open House Volunteer (2024, 2025)  
-- **eUReka 2.0:** Selected for the *Gauss Gun Project*, IAR Gandhinagar, India
+- eUReka 2.0 – *Gauss Gun Project*, IAR Gandhinagar, India
 
 ---
 
-## 📎 Useful Links
+## 🔗 Links
 
-- [Tongay Research Group](https://faculty.engineering.asu.edu/tongay/)  
-- [Materials Research Facilities – Eyring Center](https://cores.research.asu.edu/materials/about)  
-- [Shankheshwar Alloys](https://shankheshwarsteels.com/)  
-- [FORCE @ ASU](https://force.asu.edu/)  
+- [🔬 Tongay Research Group](https://faculty.engineering.asu.edu/tongay/)  
+- [🏛 Eyring Materials Center](https://cores.research.asu.edu/materials/about)  
+- [🏭 Shankheshwar Alloys](https://shankheshwarsteels.com/)  
+- [🌐 FORCE @ ASU](https://force.asu.edu/)  
+
+---
+
+<p align="center">
+  <i>“Always learning, always building.”</i>
+</p>
