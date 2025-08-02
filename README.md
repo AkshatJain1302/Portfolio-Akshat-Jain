@@ -19,15 +19,14 @@
 
 ## 🔬 About Me
 
-I’m a driven undergraduate student pursuing a B.S. in Materials Science and Engineering at Arizona State University. My experience ranges from building custom CVD systems and growing monolayer 2D materials, to high-pressure synthesis and quality assurance in industrial steel production.
+I’m an undergraduate student pursuing a B.S. in Materials Science and Engineering at Arizona State University. My experience ranges from building custom CVD systems and growing monolayer 2D materials, to high-pressure synthesis and quality assurance in industrial steel production.
 
-I'm especially passionate about bridging fundamental material science with practical engineering applications — and empowering others through outreach and mentorship.
 
 ---
 
 ## 🧪 Research & Technical Experience
 
-### 🧫 Tongay Research Group, ASU (Oct 2024 – Present)
+### - [ Tongay Research Group](https://faculty.engineering.asu.edu/tongay/) , ASU (Oct 2024 – Present)
 - Built a **custom Reverse Flow CVD system** from scratch.
 - Synthesized **WS₂ and WSe₂ monolayers**, optimizing for domain size and uniformity.
 - Applied real-time research findings to continuously improve growth protocols.
